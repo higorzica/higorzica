@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo ! 👋
 <hr>
   🧠 - Atualmente estou trabalhando em Academic Softwares Escolares.<br>
-  📍  - Moro em Belo Horizonte - MG - Brasil.<br>  
+  📍  - Moro em Montpellier - França.<br>  
   💬 - Entusiasta por programação, T.I.<br>  
   🔍 - Desenvolvimento Web, REACT, Delphi e PHP.<br>
 <hr>
