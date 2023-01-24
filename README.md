@@ -14,6 +14,8 @@
   <img align="center" alt="HZ-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  
 </div>
+
+<br>
   
 <div> 
   <a href="https://instagram.com/higor_zica" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
